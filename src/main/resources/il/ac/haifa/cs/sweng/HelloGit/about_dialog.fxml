@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox xmlns:fx="http://javafx.com/fxml/1">
+	<!-- TODO Add Nodes -->
+	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
+
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Hi there , We are using Git ! ! !"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
+
+</VBox>
+
