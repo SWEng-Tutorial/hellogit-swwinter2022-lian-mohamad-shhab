@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.layout.VBox?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
-<VBox xmlns:fx="http://javafx.com/fxml/1">
+<VBox prefHeight="114.0" prefWidth="412.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Hi there , We are using Git ! ! !"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
+	<Label alignment="CENTER" maxWidth="2.7976931348623157E308" prefHeight="39.0" prefWidth="412.0" text="Hi there , We are using Git ! ! !" textAlignment="CENTER" VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
 	</Label>
+   <Label alignment="CENTER" prefHeight="49.0" prefWidth="412.0" text="Mohamad AbuAbied">
+      <font>
+         <Font size="16.0" />
+      </font>
+   </Label>
 
 </VBox>
-
