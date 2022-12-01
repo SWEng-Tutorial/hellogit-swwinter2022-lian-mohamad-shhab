@@ -4,7 +4,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<VBox prefHeight="114.0" prefWidth="412.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+<VBox prefHeight="186.0" prefWidth="412.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
@@ -13,12 +13,17 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-   <Label alignment="CENTER" prefHeight="49.0" prefWidth="412.0" text="Mohamad AbuAbied">
+   <Label alignment="CENTER" prefHeight="43.0" prefWidth="439.0" text="Mohamad AbuAbied">
       <font>
          <Font size="16.0" />
       </font>
    </Label>
-   <Label alignment="CENTER" prefHeight="17.0" prefWidth="414.0" text="Lian Massarwa">
+   <Label alignment="CENTER" prefHeight="40.0" prefWidth="412.0" text="Lian Massarwa">
+      <font>
+         <Font size="16.0" />
+      </font>
+   </Label>
+   <Label alignment="CENTER" prefHeight="47.0" prefWidth="412.0" text="Shhab Mlkawy">
       <font>
          <Font size="16.0" />
       </font>
